@@ -1,6 +1,6 @@
-# Lyrics Alipin Java
+# Lyrics Alipin Shamrock Java
 
-This is a simple Java program that displays the lyrics of "Alipin" with typing and pause effects.
+This is a simple Java program that displays the lyrics of "Alipin" by Shamrock with typing and pause effects.
 
 ## How to Run
 
